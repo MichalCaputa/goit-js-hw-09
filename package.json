@@ -12,15 +12,18 @@
     "url": "git+https://github.com/michalcaputa/goit-js-hw-09.git"
   },
   "keywords": [],
-  "author": "Michal Caputa",
+  "author": "Michał Caputa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/michalcaputa/goit-js-hw-09/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.18.0",
     "flatpickr": "^4.6.13",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.5"
+    "notiflix": "^3.2.5",
+    "simplelightbox": "^2.11.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
